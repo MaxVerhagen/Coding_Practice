@@ -1,10 +1,10 @@
-Test: calculate Modular Exponentiation (Power in Modular Arithmetic)
+Test: calculate Modular Exponentiation (Power in Modular Arithmetic)<br />
 
-input:
-2
-2 3 5
-2 5 13
+input:<br />
+2<br />
+2 3 5<br />
+2 5 13<br />
 
-output: 
-test ID: #1: 3
-test ID: #2: 6
+output: <br />
+test ID: #1: 3<br />
+test ID: #2: 6<br />

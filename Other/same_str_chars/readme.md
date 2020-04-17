@@ -1,16 +1,16 @@
-Test: Check to see if two strings contain the same chars
+Test: Check to see if two strings contain the same chars<br />
 
-Input:
-4
-a b
-aaa aaa
-aba aaa
-baa aab
-sad asd
+Input:<br />
+4<br />
+a b<br />
+aaa aaa<br />
+aba aaa<br />
+baa aab<br />
+sad asd<br />
 
-Output:
-test ID: #1: not the same
-test ID: #2: same
-test ID: #3: not the same
-test ID: #4: same
-test ID: #5: same
+Output:<br />
+test ID: #1: not the same<br />
+test ID: #2: same<br />
+test ID: #3: not the same<br />
+test ID: #4: same<br />
+test ID: #5: same<br />

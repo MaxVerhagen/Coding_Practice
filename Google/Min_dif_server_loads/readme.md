@@ -1,16 +1,16 @@
-Test: https://leetcode.com/discuss/interview-question/356433/
+Test: https://leetcode.com/discuss/interview-question/356433/<br />
 
-input: 
-3
-5
-1 2 3 4 5
-2
-20 5
-6
-1 1 1 2 2 2
+input: <br />
+3<br />
+5<br />
+1 2 3 4 5<br />
+2<br />
+20 5<br />
+6<br />
+1 1 1 2 2 2<br />
 
 
-output:
-Case #1: 1
-Case #2: 15
-Case #3: 0
+output:<br />
+Case #1: 1<br />
+Case #2: 15<br />
+Case #3: 0<br />

@@ -1,15 +1,15 @@
-Test: Sum of bit differences among all pairs
+Test: Sum of bit differences among all pairs<br />
 
-input: 
-3
-2
-1 2
-3
-1 3 5
-4
-1 3 5 7
+input: <br />
+3<br />
+2<br />
+1 2<br />
+3<br />
+1 3 5<br />
+4<br />
+1 3 5 7<br />
 
-output:
-test ID: #1: 4
-test ID: #2: 8
-test ID: #3: 16
+output:<br />
+test ID: #1: 4<br />
+test ID: #2: 8<br />
+test ID: #3: 16<br />

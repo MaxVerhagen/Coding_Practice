@@ -1,5 +1,5 @@
-//c++ 11
-g++ -std=c++11 main.cpp -o main
+//c++ 11<br />
+g++ -std=c++11 main.cpp -o main<br />
 
 
 Collection of coding challenges I have completed

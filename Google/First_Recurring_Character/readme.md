@@ -1,14 +1,14 @@
-Test: First Recurring Character in string
+Test: First Recurring Character in string<br />
 
-input:
-4
-ABBA
-ABC
-ABCAB
-XMX
+input:<br />
+4<br />
+ABBA<br />
+ABC<br />
+ABCAB<br />
+XMX<br />
 
-output:
-test ID: #1: B
-test ID: #2: null
-test ID: #3: A
-test ID: #4: X
+output:<br />
+test ID: #1: B<br />
+test ID: #2: null<br />
+test ID: #3: A<br />
+test ID: #4: X<br />
